@@ -1,0 +1,137 @@
+body{
+    background-color: #F7F7F7;
+}
+.minDiv{
+    min-height: 1850px;
+    width: 1280px;
+    border: 1px solid transparent;
+    margin: auto;
+    background-color: #FFFFFF;
+}
+.nameDiv{
+    height: 215px;
+    width: 800px;
+    border: 1px solid transparent;
+    float: left;
+    margin-top: 20px; 
+    box-shadow: rgba(0, 0, 0, 0.15) 0px 5px 15px 0px;
+}
+.name{
+    width: 752px;
+    height: 180px;
+    margin: auto;
+    border: 1px solid transparent;
+    margin-top: 20px;
+    line-height: 7px;
+}
+.interested{
+    margin-top: 20px;
+    height: 438px;
+    width: 460px;
+    border: 1px solid transparent;
+    float: right;
+    box-shadow: rgba(0, 0, 0, 0.15) 0px 5px 15px 0px;
+}
+.in{
+    width: 90%;
+    height:90%;
+    margin: auto;
+    border: 1px solid transparent;
+    margin-top: 15px;
+}
+.name div{
+    float: right;
+}
+
+
+.highdiv{
+    min-height: 1049px;
+    width: 800px;
+    border: 1px solid transparent;
+    margin-top: 20px;
+    float: left;
+    box-shadow: rgba(0, 0, 0, 0.15) 0px 5px 15px 0px;
+}
+.job{
+    height: 253px;
+    width: 752px;
+    margin: auto;
+    border: 1px solid transparent;
+    margin-top: 20px;
+    background-color: #F1F7FF;
+}
+.des{
+    border: 1px solid transparent;
+    margin: auto;
+    width: 752px;
+    min-height: 700px;
+    margin-top: 20px;
+}
+.reviews{
+    border: 1px solid transparent;
+    width: 460px;
+    height: 235px;
+    float: right;
+    margin-top: 20px;
+    box-shadow: rgba(0, 0, 0, 0.15) 0px 5px 15px 0px;
+}
+.reviews div{
+    width: 90%;
+    height: 90%;
+    margin: auto;
+    margin-top: 10px;
+    line-height: 15px;
+}
+.perks{
+    height: 275px;
+    width: 460px;
+    border: 1px solid transparent;
+    float: right;
+    margin-top: 20px;
+    box-shadow: rgba(0, 0, 0, 0.15) 0px 5px 15px 0px;
+}
+
+
+.perks div{
+    width: 90%;
+    height: 90%;
+    margin: auto;
+    margin-top: 10px;
+}
+.suggested{
+    height: 424px;
+    width: 460px;
+    border: 1px solid transparent;
+    float: right;
+    margin-top: 20px;
+    box-shadow: rgba(0, 0, 0, 0.15) 0px 5px 15px 0px;
+}
+.suggested div{
+    width: 90%;
+    height: 90%;
+    margin: auto;
+    margin-top: 10px;
+}
+.about{
+    height: 293px;
+    width: 800px;
+    float: left;
+    border: 1px solid transparent;
+    margin-top: 20px;
+    box-shadow: rgba(0, 0, 0, 0.15) 0px 5px 15px 0px;
+}
+.beware{
+    height: 110px;
+    width: 800px;
+    float: left;
+    border: 1px solid transparent;    
+}
+.about div{
+    width: 90%;
+    height: 90%;
+    margin: auto;
+    border: 1px solid transparent;
+    margin-top: 10px;
+    line-height: 20px;
+    color: #333333;
+}

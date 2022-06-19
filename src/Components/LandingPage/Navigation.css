@@ -1,0 +1,41 @@
+.tdiv {
+    border: 1px solid transparent;
+    height: 72px;
+    background-color: #FFFFFF;
+    width:100%;
+    position: fixed;
+}
+
+.tdiv2 {
+    border: 1px soild transparent;
+    font-family:
+        Roboto, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    color: skyblue;
+    display: inline-block;
+    margin-left: 100px;
+    margin-top: 11px;
+    font-size: 18px;
+    font-weight: 400;
+    text-align: start;
+}
+
+.tdiv2:hover .tdiv3 {
+    display: block;
+}
+
+.tdiv3 {
+    border: 1px solid transparent;
+    width: 250px;
+    /* height: 350px; */
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    display: none;
+    position: absolute;
+
+    color: black;
+    /* top: 50px; */
+    /* right: 450px; */
+    background-color: white;
+    padding-left: 20px;
+
+
+}

@@ -1,0 +1,36 @@
+.mainDiv{
+    width: 632px;
+    min-height: 208px;
+    border: 1px solid transparent;
+    margin-bottom: 15px;
+    /* line-height: 15px; */
+    word-spacing: 0%;
+    text-align: left;
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+}
+.indiv{
+    display: flex;
+    flex-wrap: nowrap;
+    /* margin-left: 10px; */
+    color: #536777;
+}
+.indiv div{
+    border: 1px solid transparent;
+    margin-right: 10px;
+}
+.skilldiv{
+    display: flex;
+    flex-wrap: nowrap;
+} 
+h4{
+    color:#091E42
+}
+p{
+    color: #091E42;
+}
+.font{
+    font-size: 14px;
+}
+.scndDiv{
+    margin-left: 10px;
+}

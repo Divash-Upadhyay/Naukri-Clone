@@ -1,0 +1,26 @@
+.outerDiv{
+    width:1200px;
+    height: 340px;
+    border: 1px solid transparent;
+    border-top: 1px solid #1B2437;
+    margin: auto;
+    margin-top: 100px;
+}
+.innerDiv{
+    display: flex;
+    flex-wrap: nowrap;
+    text-align: left;
+}
+
+.innerDiv div{
+    width: 200px;
+    height: 270px;
+    border: 1px solid transparent;
+    margin: 10px;
+    color: #1B2437;
+    background-color: aliceblue;
+}
+.second{
+    font-size: 13px;
+   color: #8292B4;
+}

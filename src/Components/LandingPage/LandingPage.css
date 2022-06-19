@@ -1,0 +1,114 @@
+.inputBox{
+    height: 68px;
+    width: 999px;
+    margin: auto;
+    border: 1px solid #EAF1F5;
+    box-shadow: rgba(86, 141, 187, 0.12)0px;
+    padding: 9px 9px 9px 24px;
+    border-radius: 50px;
+}
+Input{
+    border:none;
+    margin-left: 10px;
+    width: 260px;
+    height: 38px;
+    font-size: 15px;
+}
+Button{
+    border-radius: 20px;
+    background-color: #457EFF;
+    height: 48px;
+    color: aliceblue;
+    width: 100px;
+    border: none;
+}
+.grid{
+    border: 1px solid transparent;
+    margin: auto;
+    width: 792px;
+    height: 168px;
+ /* display in middle across one another */
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    justify-content: center;
+    padding: 20px;
+}
+.imgn{
+    margin-left: 100px;
+}
+.register{
+    margin-top: 30px;
+    width: 146px;
+    background-color: #FF7555;
+}
+.outertwo{
+    width: 1098px;
+    height: 20px;
+    border: 1px solid transparent;
+    margin: auto;
+}
+.outercc{
+    margin: auto;
+    width: 1098px;
+    margin-top: 60px;
+}
+.outer{
+    width: 1098px;
+    height: 166px;
+    border: 1px solid transparent;
+    margin: auto;
+}
+.mnDiv{
+    display: flex;
+    flex-wrap: nowrap;
+}
+.mnDiv div{
+    border: 1px solid #EAF1F5;
+    background-color: #FFFFFF;
+    width: 200px;
+    height: 142px;
+    margin: 10px;
+    text-align: center;
+  
+}
+.grid1{
+    border: 1px solid transparent;
+    margin: auto;
+    width: 1098px;
+    height: 188px;
+ /* display in middle across one another */
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    justify-content: center;
+    padding: 20px;
+}
+.register1{
+    margin-top: 35px;
+    width: 126px;
+    background-color: #457EFF;
+}
+.outer1{
+    width: 1098px;
+    height: 320px;
+    border: 1px solid transparent;
+    margin: auto;
+}
+.mnDiv1{
+    width: 1098px;
+    display: flex;
+    flex-wrap: nowrap;
+}
+.mnDiv1 div{
+    border: 1px solid #EAF1F5;
+    background-color: #FFFFFF;
+    width: 278px;
+    height: 252px;
+    margin: 10px;
+    text-align: left; 
+}
+.lastBox{
+    width: 1098px;
+    height: 320px;
+    border: 1px solid transparent;
+    margin: auto;
+}

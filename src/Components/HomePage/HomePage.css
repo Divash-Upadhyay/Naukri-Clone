@@ -1,0 +1,145 @@
+body{
+    background-color: #EEEEEE;
+}
+.firstDiv{
+    height: 240px;
+    width: 100%;
+    border: 1px solid black;
+}
+input{
+    width: 527px;
+    height: 47px;
+}
+button{
+    height: 53px;
+    width: 150px;
+    font-size: 14px;
+    color: #FFFFFF;
+    background-color: #4A90E2;
+    border: none;
+}
+.inDiv{
+    margin-left: 400px;
+    margin-top: 20px;
+    color: #FFFFFF;
+}
+.inDiv input{
+    width: 400px;
+    
+}
+.cardDiv{
+    min-height: 1850px;
+    width: 1050px;
+    border :1px solid transparent;
+    box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px, rgba(0, 0, 0, 0.22) 0px 15px 12px;
+margin: auto; 
+}
+
+.firstCardLeft{
+    height: 179px;
+    width: 635px;
+    border: 1px solid transparent;
+    box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px, rgba(0, 0, 0, 0.22) 0px 15px 12px;
+    float: left;
+    text-align: center;
+    padding: 20px;
+    color: #091E42;
+    background-color: #FFFFFF;
+}
+.firstCardRight{
+    height: 426px;
+    width: 307px;
+    border: 1px solid transparent;
+    box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px, rgba(0, 0, 0, 0.22) 0px 15px 12px;
+    float: right;
+    background-color: #FFFFFF;
+}
+.secondCardLeft{
+    margin-top: 40px;
+    height: 300px;
+    width: 635px;
+    border: 1px solid transparent;
+    box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px, rgba(0, 0, 0, 0.22) 0px 15px 12px;
+    float: left;
+    text-align: left;
+    padding: 20px;
+    color: #091E42;
+    word-spacing: 0%;
+    line-height: 10px;
+    background-color: #FFFFFF;
+}
+.secondCardRight{
+    margin-top: 40px;   
+    height: 172px;
+    width: 307px;
+    border: 1px solid transparent;
+    box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px, rgba(0, 0, 0, 0.22) 0px 15px 12px;
+    float: right;   
+    color: #091E42;
+    font-size: 16px;
+    line-height: 20px;
+    background-color: #FFFFFF;
+}
+.thirdLeftDiv{
+   
+    height: 150px;
+    width: 675px;
+    border:1px solid transparent;
+    box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px, rgba(0, 0, 0, 0.22) 0px 15px 12px;
+    float: left;
+    margin-top: 40px;
+    color: #091E42;
+    background-color: #FFFFFF;
+}
+.thirdRightDiv{
+    height: 400px;
+    width: 307px;
+    border:1px solid transparent;
+    box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px, rgba(0, 0, 0, 0.22) 0px 15px 12px;
+    float: right;
+    margin-top: 40px;
+    color: #091E42;
+    line-height: 18px;
+    background-color: #FFFFFF;
+}
+.fourthLeftDiv{
+    height: 400px;
+    width: 635px;
+    border:1px solid transparent;
+    box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px, rgba(0, 0, 0, 0.22) 0px 15px 12px;
+    float: left;
+    margin-top: 40px;
+    color: #091E42;
+    padding: 20px;
+    background-color: #FFFFFF;
+}
+.fourthRightDiv{
+    height: 150px;
+    width: 307px;
+    border:1px solid transparent;
+    box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px, rgba(0, 0, 0, 0.22) 0px 15px 12px;
+    float: right;
+    margin-top: 40px;
+    color: #091E42;
+    line-height: 18px;
+    background-color: #FFFFFF;
+}
+.fifthleftDiv{
+    height: 400px;
+    width: 635px;
+    border:1px solid transparent;
+    box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px, rgba(0, 0, 0, 0.22) 0px 15px 12px;
+    float: left;
+    margin-top: 40px;
+    color: #091E42;
+    line-height: 18px;
+    padding: 20px;
+    background-color: #FFFFFF;
+}
+.loading{
+    width: 400px;
+    height: 40px;
+    background-color: #EEEEEE;
+    margin: auto;
+
+}
